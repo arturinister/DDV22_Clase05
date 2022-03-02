@@ -1,0 +1,46 @@
+body {
+    background-color: lightblue;
+}
+
+*{
+    text-align: center;
+    color:deeppink;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h1.texto-negro {
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+#acentuacionRoja {
+    color:red;
+}
+
+.resaltado-verde {
+    color: green;
+    font-size: 40px;
+}
+
+p.tono-azul {
+    color: blue;
+    text-align: center;
+}
+
+.texto-grande{
+    font-size: 30px;
+}
+
+.texto-centro{
+    text-align: center;
+}
+

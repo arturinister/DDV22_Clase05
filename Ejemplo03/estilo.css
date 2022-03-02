@@ -1,0 +1,26 @@
+.estilo1{
+    border-width: 5px;
+    border-style: solid;
+    border-color: #FF6347;
+}
+
+.estilo2{
+    border: 5px solid #1E90FF;
+}
+
+.estilo3{
+    border: 5px solid #EE82EE;
+}
+
+.parrafo1{
+    color: rgb(255,99,71);
+}
+
+.parrafo2{
+    color: rgb(30, 144, 255);
+}
+
+.parrafo3{
+    color: rgb(238, 130, 238);
+}
+
